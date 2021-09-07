@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScenerioBased", "ScenerioBased\ScenerioBased.csproj", "{F980ED96-9BC7-4B44-B0F9-B3AB99C654CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F980ED96-9BC7-4B44-B0F9-B3AB99C654CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F980ED96-9BC7-4B44-B0F9-B3AB99C654CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F980ED96-9BC7-4B44-B0F9-B3AB99C654CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F980ED96-9BC7-4B44-B0F9-B3AB99C654CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F43B7BD5-E5CB-4319-A192-2CF7227EF01E}
+	EndGlobalSection
+EndGlobal
